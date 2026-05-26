@@ -1,4 +1,4 @@
-// src/components/CardBlog.jsx
+
 
 function CardBlog({ article }) {
   const title = article?.title || "No title available";
